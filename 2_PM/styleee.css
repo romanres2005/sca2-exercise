@@ -1,0 +1,17 @@
+body {
+    font-size: 40px;
+    background-color:rgb(136, 133, 133);
+}
+p {
+    color:rgb(0, 0, 0)
+}
+#Grey1{
+    background-color: rgb(158, 157, 157);
+}
+#Grey2{
+    background-color: rgb(88, 87, 86);
+}
+.FirstDiv{
+    font-size: 30px;
+    font-style:oblique
+}
